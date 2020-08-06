@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tiger/form": "^1.0.4-bate.7",
+    "@tiger/v-table": "^0.1.2",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "normalize.css": "^7.0.0",
